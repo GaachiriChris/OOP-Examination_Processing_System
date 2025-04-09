@@ -1,7 +1,7 @@
 # OOP-Examination_Processing_System
 This project was carried out by:
 1. **Gachiri Chris** - 175851,
-2. **Bennedict Muchiri** - ,
+2. **Bennedict Muchiri** - 134626,
 3. **Francis Njoki**- 130999, 
 - The code is designed to meet the specified requirements while following object-oriented programming principles.
 
